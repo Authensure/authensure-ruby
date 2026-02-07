@@ -1,6 +1,7 @@
 # Authensure Ruby SDK
 
-[![Gem Version](https://img.shields.io/gem/v/authensure)](https://rubygems.org/gems/authensure)
+[![Gem Version](https://img.shields.io/gem/v/authensure.svg)](https://rubygems.org/gems/authensure)
+[![Downloads](https://img.shields.io/gem/dt/authensure.svg)](https://rubygems.org/gems/authensure)
 [![Ruby Version](https://img.shields.io/badge/ruby-%3E%3D%203.0-ruby.svg)](https://www.ruby-lang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
